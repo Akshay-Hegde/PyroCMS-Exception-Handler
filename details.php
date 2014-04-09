@@ -36,4 +36,3 @@ class Module_Exception_handler extends Module
   public function help() { return true; }
 }
 /* End of file details.php */
-/* Location: ./vergelijken/details.php */
